@@ -1,0 +1,54 @@
+#zero{
+    width: 50px;
+
+}
+#plus{
+    width: 23px;
+}
+#min{
+    width: 23px;
+    margin-top: -22px;
+}
+#dev{
+    width: 23px;
+}
+#mul{
+    width: 23px;
+}
+#point{
+    width: 23px;
+}
+#clear{
+    width: 23px;
+    height: 22px;
+}
+#back{
+    width: 23px;
+    height: 22px;
+}
+#a{
+    height: 25px;
+}
+#b{
+    height: 25px;
+}
+#c{
+    height: 25px;
+    
+}
+#equal{
+    height: 22px;
+    width:50px;
+    float: right;
+    margin-top: -22px;
+}
+.A{
+    border: solid 1px black; 
+    height: 123px;
+    width: 131px;   
+}
+#num1{
+    width: 123px;
+    height: 20px;
+    text-align: right;
+}
